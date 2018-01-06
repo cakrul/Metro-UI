@@ -1,0 +1,51 @@
+body, html {
+    height: 100%;
+}
+/* content */
+.page1{
+	
+}
+.one{
+	/*background-color: #c6d4e1;*/
+	background: url(../images/IMG_0039.JPG) no-repeat ;
+	height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.page2{
+	
+}
+.two{
+	background-color: #ffffff;
+}
+
+.two .page-container{
+	position: absolute;
+	bottom: -50px;
+	margin-left: -500px;
+	left: 50%;
+	margin-bottom: 150px;
+	max-width: 100%;
+}
+.page3{
+	
+}
+.three{
+	background-color: #ffffff;
+}
+
+.three .page-container{
+	position: absolute;
+	bottom: -50px;
+	margin-left: -500px;
+	left: 50%;
+	margin-bottom: 150px;
+	max-width: 100%;
+}
+.page4{
+	
+}
+.four{
+	background-color: #ffffff;
+}
